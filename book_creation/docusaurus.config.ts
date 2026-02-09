@@ -15,10 +15,10 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Syed-Ahmed-Hussain-Bukhari.github.io',
+  url: 'https://ai-textbook.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/AI-TextBook/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -26,7 +26,7 @@ const config: Config = {
   projectName: 'AI-TextBook', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  deploymentBranch: 'gh-pages',
+  
 
 
   // Even if you don't use internationalization, you can use this field to set
