@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "deploy": "docusaurus deploy"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
